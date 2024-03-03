@@ -61,20 +61,23 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
-# This code is evaluating whether or not the value 4 is numerically less than the value 9. It then prints that answer as true or false in the Terminal (in this case, it is true)
+# This code is evaluating whether or not the value 4 is numerically less than the value 9. It then prints that answer, as the boolean value true in the Terminal (as in this case the comparison evaluates to true).
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+# This code sets the variable labeled "books" to the integer 3. The code then prints the result of the evaluating the integer 4 being less than the variable books, which is set to the integer 3. This results in the boolean answer, false.
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+# This code sets the variable labeled friends to the integer 6, and the variable labeled siblings to the integer 2. The code then prints the boolean value corresponding to the proper evaluation of the comparison of friends (which is set to the integer 6) being greater than the siblings (which is set to the integer 2). This results in the boolean value of true. 
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+# This code sets the variable labeled attendees to the integer 9, and the variable labeled meals to the integer 8. The code then prints the boolean value corresponding to the proper evaluation of the comparison of the variable attendees (which is set to the integer 9) not being equal to the variable meals (which is set to the integer 8). This results in the boolean value of true.
 
 
 #-------------------
